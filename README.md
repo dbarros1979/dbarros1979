@@ -20,6 +20,10 @@ I'm a passionate software developer and a tech lover with many years of experien
 ## About Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ddangelorb/)
+<!--
+- 📝 [Resume/CV](https://your-resume-link.com)
+- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+-->
 
 I'm always eager to learn, grow, and collaborate on exciting projects. Feel free to reach out if you'd like to connect, collaborate, or just have a chat about technology.
 
@@ -101,6 +105,10 @@ Feel free to explore these projects, and if you have any questions or would like
 
 ## Get in Touch
 
+<!--
+- 📧 Email: your@email.com
+- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+-->
 - 💬 LinkedIn: [Connect](https://www.linkedin.com/in/ddangelorb/)
 
 Thank you for visiting my GitHub profile! If you like what you see, consider following me and exploring my projects. Cheers!
