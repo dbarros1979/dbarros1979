@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ddangelorb/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/dbarros1979)
 
-Greetings! I am a dedicated Computer Scientist, enthusiastic software developer, and technology lover with extensive experience. In addition to my passion for coding, I have a keen interest in reading and indulge in tennis during my leisure. Welcome to my GitHub profile, where you can explore a compilation of projects that showcase my professional expertise.
+I am a dedicated Computer Scientist, enthusiastic software developer, and technology lover with extensive experience. In addition to my passion for coding, I have a keen interest in reading and indulge in tennis during my leisure. Welcome to my GitHub profile, where you can explore a compilation of projects that showcase my professional expertise.
 
 ## About Me
 
