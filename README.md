@@ -10,12 +10,12 @@ dbarros1979/dbarros1979 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hello, I'm Daniel Barros 👋
+# Hello, everyone! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ddangelorb/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/dbarros1979)
 
-I am a dedicated Computer Scientist, enthusiastic software developer, and technology lover with extensive experience. In addition to my passion for coding, I have a keen interest in reading and indulge in tennis during my leisure. Welcome to my GitHub profile, where you can explore a compilation of projects that showcase my professional expertise.
+My name is Daniel D'Angelo Resende Barros. I am a dedicated Computer Scientist, enthusiastic software developer, and technology lover with extensive experience. In addition to my passion for coding, I have a keen interest in reading and indulge in tennis during my leisure. Welcome to my GitHub profile, where you can explore a compilation of projects that showcase my professional expertise.
 
 ## About Me
 
