@@ -20,10 +20,13 @@ My name is Daniel D'Angelo Resende Barros. I am a dedicated Computer Scientist, 
 ## About Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ddangelorb/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=hywBbNoAAAAJ)
 <!--
 - 📝 [Resume/CV](https://your-resume-link.com)
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)
 -->
+
+I hold an MSC in Computer Science and have worked on various open-source projects, including cyber-physical systems and robots. I have published 5 academic papers and received a distinguished paper award at SBES '21: Brazilian Symposium on Software Engineering.
 
 I'm always eager to learn, grow, and collaborate on exciting projects. Feel free to reach out if you'd like to connect, collaborate, or just have a chat about technology.
 
