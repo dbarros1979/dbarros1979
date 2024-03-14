@@ -26,7 +26,7 @@ My name is Daniel D'Angelo Resende Barros. I am a dedicated Computer Scientist, 
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)
 -->
 
-I hold an MSc in Computer Science and have worked on various open-source and industry projects, including AI, cyber-physical systems, and robots like [Pepper](https://www.aldebaran.com/en/pepper) (a social humanoid robot beside me in my profile picture :robot:). I have published 5 academic papers and received a distinguished paper award at [SBES '21: Brazilian Symposium on Software Engineering](https://dl.acm.org/doi/proceedings/10.1145/3474624).
+I hold an MSc in Computer Science and have worked on various open-source and industry projects, including AI, cyber-physical systems, and robots like [Pepper](https://www.aldebaran.com/en/pepper) (a social humanoid robot beside me in my profile picture :robot:). I have published 5 academic papers and received a distinguished [paper](https://dl.acm.org/doi/abs/10.1145/3474624.3474627) award at [SBES '21: Brazilian Symposium on Software Engineering](https://dl.acm.org/doi/proceedings/10.1145/3474624).
 
 I'm always eager to learn, grow, and collaborate on exciting projects. Feel free to reach out if you'd like to connect, collaborate, or just have a chat about technology.
 
