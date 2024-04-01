@@ -10,11 +10,9 @@ dbarros1979/dbarros1979 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hello, everyone! 👋
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+everyone!+👋;My+name+is+Daniel+;Welcome!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+everyone!+👋;My+name+is+Daniel+D'Angelo+Resende+Barros;Welcome+to+my+GitHub+profile!&center=true&size=30">
   </a>
 </h1>
 
