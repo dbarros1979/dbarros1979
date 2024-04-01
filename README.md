@@ -12,6 +12,12 @@ You can click the Preview link to take a look at your changes.
 
 # Hello, everyone! 👋
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello, everyone! 👋;My+name+is+Daniel+;Welcome!&center=true&size=30">
+  </a>
+</h1>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ddangelorb/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/dbarros1979)
 
